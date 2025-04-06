@@ -60,3 +60,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Ignore large model files
+EcoRangers/TinyYOLO.mlpackage/Data/com.apple.CoreML/TinyYOLO.mlmodel
+EcoRangers/YOLOv3.mlmodel
