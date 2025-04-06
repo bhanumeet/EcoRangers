@@ -3,9 +3,7 @@
 EcoRangers is an interactive augmented reality game that uses machine learning and your device's camera to detect trash in real time, challenge you to "pick" up items, and deliver eye-opening, disturbing facts about waste and its environmental impact. By merging cutting-edge technology with environmental education, EcoRangers transforms everyday surroundings into an engaging learning experience.
 
 ---
-![IMG_0669](https://github.com/user-attachments/assets/8b6b0a43-0ecf-422b-adce-8ece89e20dd6)
-
-![IMG_0668](https://github.com/user-attachments/assets/c726ac3d-5e6f-43f5-944f-164375e08f42)
+![IMG_0669](https://github.com/user-attachments/assets/8b6b0a43-0ecf-422b-adce-8ece89e20dd6) ![IMG_0668](https://github.com/user-attachments/assets/c726ac3d-5e6f-43f5-944f-164375e08f42)
 
 ![IMG_0671](https://github.com/user-attachments/assets/4fedeaf9-d2c0-43f0-bf1b-4f5da235d1e4)
 ![IMG_0670](https://github.com/user-attachments/assets/a6f4b025-1357-494a-b521-e68f02c2aa48)
